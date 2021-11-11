@@ -79,6 +79,6 @@ jobs:
       with:
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
-        repository: wilsontanwm/gosimple
+        repository: bcubeb3/gosimple
         tag_with_ref: true
 
